@@ -2,17 +2,21 @@
 
 Ultimate multi-tenant lead generation engine built for high-performance sales teams.
 
-## 🛡️ Enterprise Grade Infrastructure
-- **RBAC Security**: Built-in Role-Based Access Control protecting Super Admin and Client data.
-- **BYOK Engine**: Secure "Bring Your Own Key" architecture for Google Places API isolation.
-- **Zero-Cost Enrichment**: Proprietary Cheerio-based scraping logic for free email discovery.
-- **Global Automation**: Automated daily lead acquisition and enrichment engine.
+## 🌐 Access Portal
+The software is accessed via the production deployment. 
+- **Live URL**: [Replace with your Vercel URL]
+- **Access Type**: Private Enterprise (Invite Only)
 
-## 🚀 Product Capabilities
-- **Multi-Tenant Isolation**: Rigid database-level isolation (PostgreSQL RLS) for secure client sandboxing.
-- **Master CRM Control**: Administrative command center for global health monitoring and user management.
-- **Enriched Extraction**: Automatic discovery of company websites, phone numbers, and contact emails.
-- **Daily Performance**: Automated background processing ensuring a fresh pipeline of leads every 24 hours.
+## 🛡️ Enterprise Grade Infrastructure
+- **God-Mode CRM**: Centralized control for the platform owner.
+- **Client Isolation**: Secure, isolated data sandboxes for every user.
+- **BYOK Engine**: Efficient "Bring Your Own Key" architecture.
+- **Auto-Enrichment**: Integrated web-scraping for direct email discovery.
+
+## 🚀 Key Modules
+- **Lead Dashboard**: Real-time data visualization and CSV export.
+- **Campaign Center**: Precise niche and location-based targeting.
+- **Control Panel**: Global user management and account toggles.
 
 ---
-**LeadEngine Pro: Redefining B2B Opportunity Through Automation.**
+**LeadEngine Pro: Automated Lead Acquisition for the Digital Age.**
